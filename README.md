@@ -2,7 +2,7 @@
 
 MATLAB code used for the kinetic analysis in:
 
-> [Authors. Title. Journal. Year. DOI]
+> [Runesson et al, Eur J Nucl Med Mol Imaging 2027, under review]
 
 The code fits a dual-input (hepatic artery + portal vein) one-tissue compartment
 model for [15O]water (Kudomi et al., *Eur J Nucl Med Mol Imaging* 2008) to
